@@ -1,0 +1,12 @@
+y yyy u u 
+Suivez les �tapes ci-dessous :
+
+Pour cr�er un environnement virtuel
+
+py -m venv env
+
+pour l'activer
+
+env\scripts\activate
+
+bh
